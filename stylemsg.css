@@ -1,0 +1,6 @@
+ .hidden {
+    display: none;
+  }
+  .button-container {
+    margin-bottom: 10px; /* تباعد بين الأزرار */
+  }
